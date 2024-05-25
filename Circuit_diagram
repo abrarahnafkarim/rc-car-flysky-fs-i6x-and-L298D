@@ -1,0 +1,19 @@
+Circuit Diagram:
+
+L293D - ARDUINO:
+ENA --- 5
+ENB --- 6
+IN1 --- 2
+IN2 --- 3
+IN3 --- 4
+IN4 --- 7
+
+RECEIVER -- ARDUINO:
+CH1 --- A0
+CH2 --- A1
+CH3 --- A2
+CH4 --- A3
+CH5 --- A4
+CH6 --- A5
+VCC --- VCC
+GND --- GND
